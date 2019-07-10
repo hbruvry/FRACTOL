@@ -22,7 +22,7 @@ t_ctrl	*ft_getctrl(void)
 		return (NULL);
 	c->fn = "fractalname";
 	c->col = 1;
-	c->p = 50;
+	c->p = 500;
 	c->s = 100;
 	c->c = 0x0;
 	c->fx = 0;

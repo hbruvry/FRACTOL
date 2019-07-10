@@ -14,8 +14,7 @@
 # define __FRACTOL_H
 
 # include "libft/libft.h"
-# include "/usr/X11/include/mlx.h"
-// # include "mlx.h"
+# include "/usr/local/include/mlx.h"
 # include <math.h>
 # include <fcntl.h>
 # include <errno.h>
