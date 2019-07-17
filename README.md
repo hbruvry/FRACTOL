@@ -1,4 +1,5 @@
-# FRACTOL
+# FRACTOL @42
+## Create graphically beautiful fractals
 
 ![FRACTOL_01](/img/FRACTOL_01.jpg)
 ![FRACTOL_02](/img/FRACTOL_02.jpg)
