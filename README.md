@@ -1,4 +1,4 @@
-# FRACTOL (@42)
+# FRACTOL @42
 Create graphically beautiful fractals (114/100)
 
 ## Objectives
