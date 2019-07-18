@@ -1,5 +1,5 @@
 # FRACTOL @42
-Create graphically beautiful fractals
+Create graphically beautiful fractals (114/100)
 
 ## Objectives
 - 2D graphics
