@@ -37,7 +37,6 @@ MLXWIN =	-L /usr/local/lib/ -lmlx -lX11.dll -lXext.dll
 MLXMAC =	-L /usr/local/lib/ -lmlx -framework OpenGL -framework Appkit
 
 CC =		clang
-
 CFLAGS =	-Wall -Wextra -Werror
 
 LIBFT =		libft
